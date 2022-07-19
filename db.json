@@ -1,0 +1,83 @@
+{
+  "Employee": [
+    {
+      "id": 1,
+      "name": "Tinku",
+      "email": "tinki@gmail.com",
+      "designation": "HR",
+      "Project": false
+    },
+    
+    {
+      "id": 2,
+      "name": "Suryadev",
+      "email": "surya@gmail.com",
+      "designation": "Manager",
+      "Project": true
+    },
+    {
+      "id": 3,
+      "name": "Roopinder",
+      "email": "roop@gmail.com",
+      "designation": "Senior HR",
+      "Project": false
+    },
+    {
+      "id": 4,
+      "name": "Sushant Rajput",
+      "email": "sush@gmail.com",
+      "designation": "Ambassdor",
+      "Project": true
+    },
+    {
+      "id": 5,
+      "name": "Kanika Nagar",
+      "email": "kanika@gmail.com",
+      "designation": "founder",
+      "Project": false
+    },
+    {
+      "id": 6,
+      "name": "Rohit Nagar",
+      "email": "rohit@gmail.com",
+      "designation": "TD Executive",
+      "Project": false
+    },
+    {
+      "id": 7,
+      "name": "Manish Kushwaha",
+      "email": "msk@gmail.com",
+      "designation": "Senior Developer",
+      "Project": true
+    },
+    {
+      "id": 8,
+      "name": "Raman Sharma",
+      "email": "raman@gmail.com",
+      "designation": "ASE",
+      "Project": true
+    },
+    {
+      "id": 9,
+      "name": "Sonu Singh",
+      "email": "sonu@gmail.com",
+      "designation": "ASE",
+      "Project": false
+    },
+    {
+      "id": 10,
+      "name": "Priti Nagar",
+      "email": "priti@gmail.com",
+      "designation": "Software Developer",
+      "Project": true
+    },
+    
+    { "id": 11,
+      "name": "Tinku Bhati",
+      "email": "tinkubhatirt@gmail.com",
+      "designation": "amar hu m",
+      "Project": false
+     
+    }
+  ]
+}

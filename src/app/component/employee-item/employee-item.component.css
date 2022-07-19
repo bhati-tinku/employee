@@ -1,0 +1,20 @@
+.employee{
+    background-color: rgb(244, 222, 84);
+    margin: 5px;
+    padding: 10px 20px;
+    cursor: pointer;
+}
+
+.employee.Project{
+    border-left: 10px solid rgb(1, 86, 49);
+}
+
+.employee h3{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    
+}
+#war{
+background-color: rgb(11, 2, 2);
+}
